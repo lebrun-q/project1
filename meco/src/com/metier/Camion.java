@@ -32,7 +32,7 @@ public class Camion {
 
 	@Override
 	public String toString() {
-		return "Camion [immatriculation=" + immatriculation + ", dateMiseEnCirculation=" + dateMiseEnCirculation + "]";
+		return "Camion [immatriculation=" + immatriculation;
 	}
 
 }
