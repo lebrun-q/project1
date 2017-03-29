@@ -6,6 +6,8 @@ public class Camion {
 	private String immatriculation;
 	private Date dateMiseEnCirculation;
 
+	//kkkkkk
+	
 	public Camion(String immatriculation, Date dateMiseEnCirculation) {
 		super();
 		this.immatriculation = immatriculation;
